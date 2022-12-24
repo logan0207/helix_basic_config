@@ -1,7 +1,7 @@
-theme = "onedark"
+theme = "bogster"
 
 [editor]
-line-number = "relative"
+line-number = "relative" # 展示相对行号
 bufferline = "always"
 mouse = true
 idle-timeout = 0
